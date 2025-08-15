@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hello👋
+
 
 <!--
 **m6767/m6767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Skills**
+
+[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
 Here are some ideas to get you started:
 
